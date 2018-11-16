@@ -27,6 +27,7 @@ namespace DVitoUniverse.Controllers
             return View();
         }
 
+        //Added controller for Resume view
         public ActionResult Resume()
         {
             ViewBag.Message = "Resume.";
