@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVitoUniverse", "DVitoUniverse\DVitoUniverse.csproj", "{EE13B710-F341-4B28-860C-EC6714A5ABBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVitoUniverse.Tests", "DVitoUniverse.Tests\DVitoUniverse.Tests.csproj", "{E1613305-9FFD-40B7-8166-3647D2B34545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE13B710-F341-4B28-860C-EC6714A5ABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE13B710-F341-4B28-860C-EC6714A5ABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE13B710-F341-4B28-860C-EC6714A5ABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE13B710-F341-4B28-860C-EC6714A5ABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1613305-9FFD-40B7-8166-3647D2B34545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1613305-9FFD-40B7-8166-3647D2B34545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1613305-9FFD-40B7-8166-3647D2B34545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1613305-9FFD-40B7-8166-3647D2B34545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3558A92-40DE-4AE7-8500-D278F97F24BF}
+	EndGlobalSection
+EndGlobal
